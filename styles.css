@@ -1,0 +1,25 @@
+
+article{
+    background-color: blue;
+    color: aliceblue; 
+}
+header{
+background-color: aqua;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+img{
+    width: 200px;
+    height: 100px;
+}
+
+li{
+    display: inline
+}
+#vidita{
+    width: 600px;
+    height: 800px;
+}
+.lifehacks{
+    background-color: coral;
+    color: aqua
+}
